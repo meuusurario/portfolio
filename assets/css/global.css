@@ -35,7 +35,7 @@ a:hover {
 .main::before, 
 .main::after  {
     content: '';
-    background-image: url('/assets/img/backgroud.svg');
+    background-image: url('../img/backgroud.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 70vw;
